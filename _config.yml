@@ -1,1 +1,26 @@
-theme: jekyll-theme-leap-day
+﻿# Site settings
+name: Less Or More
+email: 469711989@qq.com
+author: 空城旅人
+url: lbc.pub
+resume_site: lbc.pub
+github: https://github.com/lbc989/
+baseurl: ""
+description: Actually, less is more!
+meta_description: 金钱一旦作响,坏话随之戛然而止
+motto: It's our wits that make us men.
+banner: 金钱一旦作响,坏话随之戛然而止。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: lbc989
+
+# Build settings
+markdown: kramdown
+
+
+
